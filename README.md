@@ -1,5 +1,6 @@
 # Optimizing Bank Marketing Campaign
 *This is the final project from the Digital Talent Incubator Program offered by Purwadhika Digital Technology School*  
+*To explore more about how this dataset looks like, take a look at [Bank Marketing Campaign Presentation](https://www.canva.com/design/DAGQU1weM9g/iW7TK1glebIsdT0-6uTIkQ/edit?utm_content=DAGQU1weM9g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*  
 
 ## **Overview**
 
@@ -240,7 +241,4 @@ We developed the best model using data cleaning, feature extraction, preprocessi
 
   4. **Campaign Regulation**  
       Define guidelines based on the model's insights to improve the probability of customer subscriptions. Use these regulations to refine campaign strategies and improve conversion rates. The recommendations are **what's the maximum call we should perform for a customer(in this case 56 max calls - based on our EDA findings), how many days should we call for a month, etc**.   
-
-## Business Presentation
-To explore more about how this dataset looks like, we provide you [Bank Marketing Campaign Presentation](https://www.canva.com/design/DAGQU1weM9g/iW7TK1glebIsdT0-6uTIkQ/edit?utm_content=DAGQU1weM9g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
